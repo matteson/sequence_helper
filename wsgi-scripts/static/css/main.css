@@ -1,0 +1,20 @@
+body {
+    padding-top: 60px;
+    padding-bottom: 40px;
+    }
+.error {
+    display: block;
+    color: red;
+    font-size: 140%;
+}
+.sequence {
+    font-family: Courier, monospace;
+    white-space:nowrap;
+    color: red;
+}
+.hero-unit {
+    }
+footer p {
+    text-align:center;
+    }
+

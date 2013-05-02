@@ -1,0 +1,16 @@
+body {
+      position: relative;
+      font-family: sans-serif;
+      width: 800px;
+      margin: 0 auto;
+      padding: 20px;
+    }
+    
+.form_row {
+      padding: 5px;
+    }
+
+.error {
+      color: red
+    }
+

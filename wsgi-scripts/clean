@@ -1,0 +1,5 @@
+#!/bin/bash
+find uploads -type f -print0| xargs -0 rm
+find uploads/13*ABI -type d -print0 | xargs -0 rm -r
+find uploads/13*FAS -type d -print0 | xargs -0 rm -r
+
